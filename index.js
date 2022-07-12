@@ -38,6 +38,7 @@ function clearGrid (){
     makeGrid(currentSize);
 }
 
+clear.onclick = () => clearGrid();
 //Reload grid
 
 function reloadGrid() {
