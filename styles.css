@@ -82,6 +82,10 @@ footer {
   width: 100%;
 }
 
+#github {
+  margin-left: 5px;
+}
+
 /* Button Section by Google */
 
 .button {
